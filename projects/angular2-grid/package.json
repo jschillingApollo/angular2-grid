@@ -32,8 +32,11 @@
     "url": "https://github.com/BTMorton/angular2-grid/issues"
   },
   "homepage": "https://github.com/BTMorton/angular2-grid",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
   "peerDependencies": {
-    "@angular/common": "^8.0.0",
-    "@angular/core": "^8.0.0"
+    "@angular/common": "^10.0.0",
+    "@angular/core": "^10.0.0"
   }
 }
